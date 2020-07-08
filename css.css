@@ -1,0 +1,11 @@
+ body {
+  background-color:#000000;
+      transition:.3s ease;
+}
+.yazi {
+      text-shadow:1px 1px 15px lightblue;
+  color:#fff;
+    text-align: left;
+     font-family: Roboto;
+  font-size:45px;
+}
